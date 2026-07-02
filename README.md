@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Evren 👋
 
-<!--
-**ontheroad86/ontheroad86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and ship full products end-to-end — driving product decisions and
+orchestrating modern tooling (including AI) to build across mobile, web, and backend.
+Founder & product builder based in Antalya, Turkey.
 
-Here are some ideas to get you started:
+## 🚀 What I've shipped
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Planzy](https://getplanzy.com)** — a social event-planning app: create events,
+invite friends, RSVP, chat, run date & location polls, and decide together.
+Conceived, designed and shipped solo to web, iOS (TestFlight) and Android.
+Stack: `React Native · Expo · Supabase (Postgres · RLS · Auth · Realtime)`.
+
+**Flowly** — a lightweight project & team management platform for small teams;
+an accessible alternative to heavy PM tools.
+Stack: `Next.js · Prisma · PostgreSQL`.
+
+## 🧭 What I do
+Product strategy & scoping · UX decisions · shipping end-to-end ·
+service integration (auth, storage, email, push, maps) ·
+release & deployment (App Store / Play / web) · AI-assisted development.
+
+## 📫 Reach me
+- 🌐 [getplanzy.com](https://getplanzy.com)
+- ✉️ evren@getplanzy.com
+- 💼 [LinkedIn](https://linkedin.com/in/evren-i-b96652206/)
