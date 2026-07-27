@@ -8,7 +8,7 @@ Founder & product builder based in Antalya, Turkey.
 
 **[Planzy](https://getplanzy.com)** — a social event-planning app: create events,
 invite friends, RSVP, chat, run date & location polls, and decide together.
-Conceived, designed and shipped solo to web, iOS (TestFlight) and Android.
+Conceived, designed and shipped solo to web, iOS and Android.
 Stack: `React Native · Expo · Supabase (Postgres · RLS · Auth · Realtime)`.
 
 **Flowly** — a lightweight project & team management platform for small teams;
