@@ -2,7 +2,7 @@
 
 I design and ship full products end-to-end — driving product decisions and
 orchestrating modern tooling (including AI) to build across mobile, web, and backend.
-Founder & product builder based in Antalya, Turkey.
+Founder & Vibe Coder based in Antalya, Turkey.
 
 ## 🚀 What I've shipped
 
