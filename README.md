@@ -1,8 +1,6 @@
 # Hi, I'm Evren 👋
 
-I design and ship full products end-to-end — driving product decisions and
-orchestrating modern tooling (including AI) to build across mobile, web, and backend.
-Founder & AI-Native Product Builder based in Antalya, Turkey.
+I'm someone who enjoys figuring things out, solving problems and turning ideas into something people can actually use. I built Planzy, a social event-planning app, from scratch and brought it to web, iOS and Android. Along the way, I've learned a lot about product development, user experience and the many little things that go into running an app. I also bring 5+ years of experience in customer-facing roles, product operations and training across international teams (GP Strategies, REEF, Hilton). I'm curious by nature, enjoy learning new things and like being part of a team where I can make a practical contribution.
 
 ## 🚀 What I've shipped
 
@@ -16,9 +14,7 @@ an accessible alternative to heavy PM tools.
 Stack: `Next.js · Prisma · PostgreSQL`.
 
 ## 🧭 What I do
-Product strategy & scoping · UX decisions · shipping end-to-end ·
-service integration (auth, storage, email, push, maps) ·
-release & deployment (App Store / Play / web) · AI-assisted development.
+AI-assisted development.
 
 ## 📫 Reach me
 - 🌐 [getplanzy.com](https://getplanzy.com)
